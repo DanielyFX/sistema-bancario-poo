@@ -7,6 +7,3 @@ Atividade lab proposta pela DIO para treinar e reforçar os conhecimentos em POO
 /src/domain/repository -> mantem as entidades para execução das tarefas e interações necessárias para o sistema
 
 /main.py -> Arquivo responsável por executar toda a lógica criada no repositório.
-
-# Diagrama referência
-![img.png](utils/img.png)

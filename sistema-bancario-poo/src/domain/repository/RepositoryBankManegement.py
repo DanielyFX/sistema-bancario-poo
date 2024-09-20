@@ -3,7 +3,6 @@ from src.domain.entities.cliente import Cliente
 from src.domain.entities.conta import Conta
 from src.domain.entities.deposito import Deposito
 from src.domain.entities.saque import Saque
-from src.domain.entities.historico import Historico
 
 
 class RepositoryBankManegement:

@@ -1,5 +1,3 @@
-from datetime import datetime
-
 from src.domain.repository.RepositoryBankManegement import RepositoryBankManegement
 
 from src.utils.menu import Menu
